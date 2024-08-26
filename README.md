@@ -1,6 +1,8 @@
 # New Feature Examples
 
-This repository has example Python client code for new Weaviate features. When a new version of Weaviate is released, new examples are added to a directory that corresponds to the release.
+This repository has example [Weaviate Python client](https://weaviate.io/developers/weaviate/client-libraries/python) code for new Weaviate core features.
+
+When a new version of Weaviate core database is released, new client examples are added to a directory that corresponds to the release.
 
 ## v1.26 Feature Examples
 
